@@ -39,9 +39,8 @@ I’m looking for real-world opportunities to **build ETL pipelines** and gain p
 
 I'm always open to sharing ideas, collaborating on SQL/data projects, or learning from others in the community.
 
-📫 Email: [your.email@example.com]  
 🔗 LinkedIn: [linkedin.com/in/radovanpalkovic](https://linkedin.com/in/radovanpalkovic)  
-🌍 Based in: [Your City], Europe
+🌍 Based in: Slovakia, Europe
 
 ---
 
