@@ -29,7 +29,6 @@ I’m looking for real-world opportunities to **build ETL pipelines** and gain p
 
 ## 📌 What You'll Find Here
 
-- Sample SQL scripts and procedures  
 - Data transformation exercises  
 - Learning projects related to data pipelines and analytics
 
