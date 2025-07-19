@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm an experienced IT professional focused on **data analy
 - 🛠️ Tune queries and optimize database performance
 - 🧾 Support business applications with a strong data backend
 
-I've worked with various systems in finance, document management, and consumer goods — always with a focus on **data accuracy, efficiency, and performance**.
+I've worked with various systems in sales, document management, and consumer goods — always with a focus on **data accuracy, efficiency, and performance**.
 
 ---
 
